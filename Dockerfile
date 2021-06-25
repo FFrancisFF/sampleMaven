@@ -1,4 +1,4 @@
-FROM maven:3.8.1-adoptopenjdk-1
+FROM openjdk:11-jdk
 COPY . .
 WORKDIR .
 EXPOSE 8081
