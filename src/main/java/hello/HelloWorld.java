@@ -1,6 +1,6 @@
 package hello;
 import org.joda.time.LocalTime;
-//test push trigger on jenkins
+//test push trigger
 
 
 public class HelloWorld {
